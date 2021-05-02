@@ -1,0 +1,5 @@
+Flask
+geocoder
+pendulum
+geopy
+
